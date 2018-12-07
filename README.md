@@ -8,5 +8,5 @@ Allows running ISO games of the PC-Engine CD system (in this case) under MESS wi
 * The source is an iso image & cue track list
 * The target is a chd image & cue track list
 * Download the last version of [chdman](https://www.mamedev.org/release.php) incluided in mame
-* Put the chdman and converIsoToChd.bat in the same folder with the roms
-* Run convertIsoToChd.bat and recursively created all the images of the games in * .chd format
+* Put the chdman and [convertIsoToChd.bat](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/script/convertISOtoCHD.bat) in the same folder with the roms
+* Run [convertIsoToChd.bat](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/script/convertISOtoCHD.bat) and recursively created all the images of the games in * .chd format
