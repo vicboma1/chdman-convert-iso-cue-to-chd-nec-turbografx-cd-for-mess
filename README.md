@@ -25,6 +25,5 @@ Allows running ISO games of the PC-Engine CD system (in this case) under MESS wi
 
 
 ## Video
-[![NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD](
-)](https://youtu.be/ChgCzShdApc "NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD")
+[![NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/images/preYoutube.png)](https://youtu.be/ChgCzShdApc "NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD")
 
