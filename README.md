@@ -21,7 +21,10 @@ Allows running ISO games of the PC-Engine CD system (in this case) under MESS wi
 
 ![](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/images/chd.png)
 
-## chd + cue
+## chd
 
 
+## Video
+[![NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD](
+)](https://youtu.be/ChgCzShdApc "NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD")
 
