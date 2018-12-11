@@ -1,4 +1,4 @@
-# MESS 
+# CHDMAN | MESS | ROCKETLAUNCHER
 
 ### Convert ISO to CHD for PC-Engine CD (MESS)
 Allows running ISO games of the PC-Engine CD system (in this case) under MESS with CHD extensions using Hyperspin.
