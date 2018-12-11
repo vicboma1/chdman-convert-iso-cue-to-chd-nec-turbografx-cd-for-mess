@@ -1,1 +1,1 @@
-For /R %%G in (*.iso) do chdman createcd -i "%%G" -o "%%~nG.chd"
+for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
