@@ -3,8 +3,8 @@
 ### Convert ISO/CUE to CHD for PC-Engine CD (MESS)
 Allows running ISO/CUE games of the PC-Engine CD system (in this case) under MESS with CHD extensions using Hyperspin.
 
-* Before - 22 gigas
-* After - 12 gigas
+* Before - 22 gigas (iso/cue)
+* After - 12 gigas (chd)
 
 ### Introductions 
 * You need merging and updating the games of the last MESS version
