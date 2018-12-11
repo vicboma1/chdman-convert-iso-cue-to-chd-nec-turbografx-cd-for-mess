@@ -11,10 +11,6 @@ Allows running ISO games of the PC-Engine CD system (in this case) under MESS wi
 * Put the chdman and [convertIsoToChd.bat](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/script/convertISOtoCHD.bat) in the same folder with the roms
 * Run [convertIsoToChd.bat](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/script/convertISOtoCHD.bat) and recursively created all the images of the games in * .chd format
 
-## Process
-
-![](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/blob/master/images/chdmanToChd.gif)
-
 ## Size
 
 ## iso + cue
@@ -27,3 +23,11 @@ Allows running ISO games of the PC-Engine CD system (in this case) under MESS wi
 ## Video
 [![NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/raw/master/images/preYoutube.png)](https://youtu.be/ChgCzShdApc "NEC TURBOGRAFX-CD ISO/CUE TO MESS CHD")
 
+## Process
+
+![](https://github.com/vicboma1/Hyperspin-convert-iso-to-chd-pc-engine-cd-for-mess/blob/master/images/chdmanToChd.gif)
+
+
+## Info & Verify MD5
+
+![]()
